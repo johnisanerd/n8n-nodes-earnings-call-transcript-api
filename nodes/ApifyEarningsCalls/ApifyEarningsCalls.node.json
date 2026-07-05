@@ -1,0 +1,36 @@
+{
+	"node": "n8n-nodes-earnings-call-transcript-api",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Finance & Accounting",
+		"Data & Storage",
+		"Analytics"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.apify.com/platform/integrations/n8n"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://apify.com/johnvc/earnings-call-transcript-api?fpr=9n7kx3"
+			}
+		]
+	},
+	"alias": [
+		"apify",
+		"earnings",
+		"earnings call",
+		"transcript",
+		"sec",
+		"edgar",
+		"8-k",
+		"filings",
+		"stocks",
+		"guidance",
+		"sentiment",
+		"investor relations"
+	]
+}
