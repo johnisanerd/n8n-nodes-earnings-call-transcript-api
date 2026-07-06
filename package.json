@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-earnings-call-transcript-api",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Speaker-tagged earnings call transcripts and parsed SEC 8-K filings as structured JSON. Apify-backed n8n community node, pay-per-result, and usable as an AI agent tool.",
 	"keywords": [
 		"n8n-community-node-package",
